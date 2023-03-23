@@ -1,1 +1,1 @@
-# nosql-challeng
+# nosql-challenge
